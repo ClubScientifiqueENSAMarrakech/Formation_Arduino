@@ -1,5 +1,5 @@
-![alt text](http://imgur.com/a/KTYgv "Feu Rouge")
+![Imgur](http://i.imgur.com/lHMhjlT.jpg "Feu Rouge")
 ---
-![alt text](http://imgur.com/a/idG2q "Circuit Feu Rouge")
+![Imgur](http://i.imgur.com/tiQqttn.jpg "Circuit Feu Rouge")
 ---
-![alt text](http://imgur.com/a/WOGeL "Circuit Feu Rouge")
+![Imgur](http://i.imgur.com/CCmFWKW.png "Diagram")
