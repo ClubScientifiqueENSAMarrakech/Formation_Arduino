@@ -1,4 +1,4 @@
-# Resources et Liens utile
+# Ressources et Liens utile
 ## Le Club Scientifique ENSA Marrakech, SciENSA
 ### Cellule Electrique
 
