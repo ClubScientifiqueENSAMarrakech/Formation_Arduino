@@ -1,6 +1,6 @@
 # Club Scientifique ENSA Marrakech - SciENSA
 
-## Arduino en Pratique - Séance 4
+## Arduino en Pratique - Séance 3
 
 ### TP: Feu de signalisation Routière
 
