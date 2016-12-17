@@ -6,6 +6,8 @@ Arduino est une carte programmable open-source devenue un standard de fait pour 
 
 Ici, vous trouverez nos **cours**, les **codes-source** des TPs et des **liens** vers des ressources utiles.
 
+![Imgur](http://i.imgur.com/9ms8joS.png)
+
 ## Séance 1
 ### Arduino : Premier pas en Informatique Embarqué I
 
