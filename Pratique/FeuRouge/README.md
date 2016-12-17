@@ -1,7 +1,5 @@
 # Club Scientifique ENSA Marrakech - SciENSA
 
-## Arduino en Pratique - Séance 3
-
 ### TP: Feu de signalisation Routière
 
 Une simple réalisation d'un Feu de signalisation Routière Miniaturisé pour
